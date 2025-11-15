@@ -7,7 +7,7 @@
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
     Ubuntu, Cantarell, sans-serif;
-  background: #0a0a0a;
+  background: #0A0F1F;
   min-height: 100vh;
   display: flex;
   justify-content: center;
@@ -64,7 +64,7 @@ body {
 
 .stat-label {
   font-size: 0.9rem;
-  color: #a1a1aa;
+  color: #AAB8D4;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -81,7 +81,7 @@ body {
   color: white;
   border: none;
   padding: 12px 30px;
-  font-size: 1.1rem;
+  font-size: 1rem;
   font-weight: 600;
   border-radius: 10px;
   cursor: pointer;
@@ -160,16 +160,16 @@ body {
 }
 
 .card-front {
-  background: linear-gradient(to bottom, #0f172a, #0b0f1a);
+  background: linear-gradient(to bottom, #1b253a, #061335);
   color: white;
   font-weight: bold;
   font-size: 3rem;
   z-index: 1;
-  border: 2px solid rgba(255, 255, 255, 0.1);
+  border: 2px solid #1E2A47;
 }
 
 .card-back {
-  background: #1e1e1e;
+  background: #11182C;
   font-size: 4rem;
   z-index: 0;
   border: 2px solid rgba(255, 255, 255, 0.1);
@@ -190,7 +190,8 @@ body {
 }
 
 .card.matched .card-back {
-  background: rgba(126, 211, 33, 0.2);
+  /* background: rgba(126, 211, 33, 0.2); */
+  background: #52FF7F;
   box-shadow: 0 0 20px rgba(126, 211, 33, 0.4);
   border: 2px solid rgba(126, 211, 33, 0.5);
 }
