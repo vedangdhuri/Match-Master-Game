@@ -27,14 +27,15 @@
     <li><strong>🔥 Hot Module Replacement:</strong> Enables real-time updates during development for a smoother workflow.</li>
     <li><strong>📝 ESLint Integration:</strong> Enforces coding standards and best practices across your codebase.</li>
     <li><strong>🔧 Modular Architecture:</strong> Supports plugin options and future enhancements like React Compiler support.</li>
-    <li><strong>🖥 Responsive Design:</strong> Scroll-aware navigation and adaptable layouts ensure seamless access across devices.</li>
+    <li><strong>🎮 Focused on React:</strong> Utilizes modern React hooks and components for maintainability and scalability.</li>
+    <li><strong>🎉 Engaging UI Components:</strong> Includes interactive cards, headers, and win messages for a polished user experience.</li>
 </ul>
 
 <h2 align="left">⚙️ Installation & Setup</h2>
 
 1. 1️⃣ Clone the repository
-    <pre><code>❯ git clone https://github.com/vedangdhuri/vedangdhuri.github.io</code></pre>
-    <pre><code>cd vedangdhuri.github.io</code></pre>
+    <pre><code>❯ git clone https://github.com/vedangdhuri/Match-Master-Game</code></pre>
+    <pre><code>❯ cd Match-Master-Game</code></pre>
 
 2. 2️⃣ Install dependencies
     <pre><code>npm install</code></pre>
@@ -49,28 +50,16 @@
 <h2 align="left">🧭 Project Structure</h2>
 <pre><code>
 src/
-├── assets/
-│   └── homeImg.png
 ├── components/
-│   ├── ui/
-│   │   ├── toast.jsx
-│   │   └── toaster.jsx
-│   ├── AboutSection.jsx
-│   ├── ContactSection.jsx
-│   ├── Footer.jsx
-│   ├── HeroSection.jsx
-│   ├── Navbar.jsx
-│   ├── ProjectsSection.jsx
-│   ├── SkillsSection.jsx
-│   └── StarBackground.jsx
+│   ├── Card.jsx
+│   ├── GameHeader.jsx
+│   └── WinMessage.jsx
 ├── hooks/
-│   └── use-toast.jsx
-├── lib/
-│   └── utils.jsx
+│   └── useGameLogic.js
 ├── App.jsx
 ├── index.css
 └── main.jsx
 </code></pre>
 
 <h2 align="left">📜 License</h2>
-<p>Licensed under the <a href="https://github.com/vedangdhuri/vedangdhuri.github.io/blob/main/LICENSE" target="_blank">MIT License</a>.</p>
+<p>Licensed under the <a href="https://github.com/vedangdhuri/Match-Master-Game/blob/main/LICENSE" target="_blank">MIT License</a>.</p>
