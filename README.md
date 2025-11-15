@@ -1,10 +1,10 @@
 <h1 align="center">MATCH-MASTER-GAME</h1>
 <h3 align="center">Unleash Your Mind, Master the Memory Challenge</h3>
 <div align=center>
-    <img src="https://img.shields.io/github/last-commit/vedangdhuri/Match-Master-Game?style=flat&logo=git&logoColor=white&color=0080ff" alt=""/>
-    <img src="https://img.shields.io/github/languages/top/vedangdhuri/match-master-game?style=flat&color=0080ff" alt=""/>
-    <img src="https://img.shields.io/github/languages/count/vedangdhuri/Match-Master-Game?style=flat&color=0080ff" alt=""/>
-    <a href="https://match-master-game.vercel.app/"><img src="https://img.shields.io/badge/Visit_Site-Match_Master_Game-blue?style=flat&color=0080ff" alt=""/></a> 
+    <img src="https://img.shields.io/github/last-commit/vedangdhuri/Match-Master-Game?style=plastic&logo=git&logoColor=white&color=0080ff" alt=""/>
+    <img src="https://img.shields.io/github/languages/top/vedangdhuri/match-master-game?style=plastic&color=0080ff" alt=""/>
+    <img src="https://img.shields.io/github/languages/count/vedangdhuri/Match-Master-Game?style=plastic&color=0080ff" alt=""/>
+    <a href="https://match-master-game.vercel.app/"><img src="https://img.shields.io/badge/Visit_Site-Match_Master_Game-blue?style=plastic&color=0080ff" alt=""/></a> 
 </div>
 <h2 align="center">Built with the tools and technologies:</h2>
 <div align="center">
