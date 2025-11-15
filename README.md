@@ -2,7 +2,7 @@
 <h3 align="center">Unleash Your Mind, Master the Memory Challenge</h3>
 <div align=center>
     <img src="https://img.shields.io/github/last-commit/vedangdhuri/Match-Master-Game?style=flat&logo=git&logoColor=white&color=0080ff" alt=""/>
-    <img src="https://img.shields.io/github/languages/top/vedangdhuri/Match-Master-Game?style=flat&color=0080ff" alt=""/>
+    <img src="https://img.shields.io/github/languages/top/vedangdhuri/match-master-game?style=flat&color=0080ff" alt=""/>
     <img src="https://img.shields.io/github/languages/count/vedangdhuri/Match-Master-Game?style=flat&color=0080ff" alt=""/>
     <a href="https://match-master-game.vercel.app/"><img src="https://img.shields.io/badge/Visit_Site-Match_Master_Game-blue?style=flat&color=0080ff" alt=""/></a> 
 </div>
