@@ -1,7 +1,7 @@
 export const GameHeader = ({ score, moves, onReset }) => {
   return (
-    <div className="game-header">
-      <h1>🎮 Match Master</h1>
+    <div className="game-header font-bold">
+      <h1>🎮 Match Master 🎮</h1>
       <div className="stats">
         <div className="stat-item">
           <span className="stat-label">Score:</span>{" "}

@@ -7,7 +7,8 @@ export const Card = ({ card, onClick }) => {
       onClick={() => onClick(card)}
     >
       <div className="card-front">?</div>
-      <div className="card-back">{card.value}</div>
+      {/* <div className="card-back">{card.value}</div> */}
+      <div className="card-back"><img src={card.value} className="img-card"/></div>
     </div>
   );
 };
