@@ -21,7 +21,7 @@ rl.question("How many commits do you want to make? ", async (answer) => {
   try {
     for (let i = 1; i <= count; i++) {
       // Modify dummy file (Git needs a file change)
-      fs.writeFileSync("auto_commit_dummy.txt", `Commit ${i}: ${Date.now()}`);
+      fs.writeFileSync("list.txt", `Commit ${i}: ${Date.now()}`);
 
       // Stage all files
       await git.add(".");
